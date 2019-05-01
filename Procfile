@@ -1,1 +1,1 @@
-worker: node bot.js Asuka
+worker: node bot.js
