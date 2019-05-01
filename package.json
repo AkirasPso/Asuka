@@ -9,3 +9,4 @@
 		"jimp": "^0.2.28"
 	}
 }
+ client.login(process.env.BOT_TOKEN):
